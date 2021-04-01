@@ -1,0 +1,6 @@
+[INFO][article.go:70]2021/03/31 14:46:59 [err.key: %s, err.message: %s state 状态只允许0或1]
+[INFO][article.go:70]2021/03/31 14:46:59 [err.key: %s, err.message: %s tag_id 标签ID必须大于0]
+[INFO][article.go:70]2021/03/31 14:47:23 [err.key: %s, err.message: %s state 状态只允许0或1]
+[INFO][article.go:70]2021/03/31 14:47:23 [err.key: %s, err.message: %s tag_id 标签ID必须大于0]
+[INFO][article.go:70]2021/03/31 14:52:51 [state 状态只允许0或1]
+[INFO][article.go:70]2021/03/31 14:52:51 [tag_id 标签ID必须大于0]
